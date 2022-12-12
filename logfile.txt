@@ -1,0 +1,27 @@
+1100,1234,Never Let Me Go,Kazuo Ishiguro,1/8/2022,''
+5678,Fanstasy Zone One,Colson Whitehead
+2345,Terra Nullius Claire G.,Coleman
+2233,The Catcher in the Rye, JD Salinger
+4566,The Great Gatsby,F. Scott Fitzgerald
+1984,George Orwell,Natasha Wambui
+0987,The Handmaid's Tale,Margaret Atwood
+5673,To Kill a Mockingbird,Harper Lee
+6738,In Cold Blood,Truman Capote
+1253,Astrophysics for People in a Hurry, Neil deGrasse Tyson
+0393,Pride and Prejudice, Jane Austen
+4623,The Notebook, Nicholas Sparks
+1427,The Time Traveler's Wife, Audrey Niffenegger
+0684,Jane Eyre, Charlotte BrontÃ
+0587,Vision in White, Nora Roberts
+1866,A Song of Ice and Fire, George R.R. Martin
+9042,The Lord of the Rings, J.R.R. Tolkien
+7634,His Dark Materials, Philip Pullman
+9484,The Dark Tower, Stephen King
+2385,Never Let Me Go,Kazuo Ishiguro
+5783,A Time to Kill, John Grisham
+9473,American Psycho, Bret Easton Ellis
+8438,The Silence of the Lambs, Thomas Harris
+4192,Gone Girl, Gillian Flynn
+9706,The Lord of the Rings, J.R.R. Tolkien
+3822,The Notebook, Nicholas Sparks
+3345,In Cold Blood,Truman Capote
