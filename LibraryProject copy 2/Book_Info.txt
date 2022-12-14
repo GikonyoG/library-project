@@ -1,0 +1,27 @@
+ID,Genre,Title,Author,Purchase Price £,Purchase Date
+1,Sci-Fi,Never Let Me Go,Kazuo Ishiguro,10,1/5/2012
+2,Sci-Fi,Fantasy Zone One,Colson Whitehead,15,1/3/2000
+3,Mystery,Terra Nullius Claire G.,Coleman,20,3/2/2022
+4,Fantasy,The Catcher in the Rye, JD Salinger,30/12/2015
+5,Sci-Fi,The Great Gatsby,F. Scott Fitzgerald,16,12/5/2018
+6,Classics,George Orwell,Natasha Wambui,12,16/9/2010
+7,Sci-Fi,The Handmaid's Tale,Margaret Atwood,33,27/5/2021
+8,Fantasy,To Kill a Mockingbird,Harper Lee,78,2/9/2022
+9,Fantasy,In Cold Blood,Truman Capote,20,3/2/2018
+10,Sci-Fi,Astrophysics for People in a Hurry, Neil deGrasse Tyson,40,5/8/2013
+11,Classics,Pride and Prejudice, Jane Austen,25,7/9/2010
+12,Romance,The Notebook, Nicholas Sparks,56,6/4/2012
+13,Sci-Fi,The Time Traveler's Wife, Audrey Niffenegger,23,3/7/2015
+14,Classics,Jane Eyre, Charlotte BrontÃ,16,5/8/2019
+15,Romance,Vision in White, Nora Roberts,18,2/7/2011
+16,Fantasy,A Song of Ice and Fire, George R.R. Martin,35,9/3/2016
+17,Fantasy,The Lord of the Rings, J.R.R. Tolkien,21,4/11/2018
+18,Classics,His Dark Materials, Philip Pullman,22,6/9/2013
+19,Mystery,The Dark Tower, Stephen King,10,8/2/2008
+20,Thriller,American Psycho, Bret Easton Ellis,44,12/3/2014
+21,Classics,The Silence of the Lambs, Thomas Harris,37,7/12/2021
+22,Sci-Fi,Gone Girl, Gillian Flynn,25,6/9/2018
+23,Fantasy,In Cold Blood,Truman Capote,20,3/2/2018
+24,Classics,Jane Eyre, Charlotte BrontÃ,16,5/8/2019
+25,Sci-Fi,Never Let Me Go,Kazuo Ishiguro,10,1/5/2012
+26,Classics,His Dark Materials, Philip Pullman,22,6/9/2013
